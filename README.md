@@ -8,7 +8,7 @@ cowdmc is an open-source continuation of [PixelatedPope's TDMC script](http://ht
 * Under a proper open-source license (see LICENSE file for details)
 
 ## Usage
-WIP
+See [the wiki](https://github.com/voncowenhoven/cowdmc/wiki/Using-cowdmc) for details.
 
 ### Known Issues
 * There is currently no mechanism for "corner slipping" like in TDMC. I am working on adding this now.
