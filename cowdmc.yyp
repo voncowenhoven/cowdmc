@@ -25,9 +25,11 @@
   },
   "name":"cowdmc",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
+    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"cowdmc","path":"scripts/cowdmc/cowdmc.yy",},},
     {"id":{"name":"sDummyTileset","path":"sprites/sDummyTileset/sDummyTileset.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
@@ -37,7 +39,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
